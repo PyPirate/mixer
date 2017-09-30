@@ -1,1 +1,2 @@
 import collections.defaultdict
+from collections import namedtuple
