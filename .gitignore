@@ -1,0 +1,3 @@
+mixer/browsers/*.log
+*.pyc
+.idea/*
